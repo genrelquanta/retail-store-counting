@@ -8,7 +8,7 @@ from helper import *
 
 """
 This file implements kalman filter and tracking using kalman filter.
-The implementation of kalman filter based tracking is inspired from a
+The implementation of kalman filter based tracking is based on a
 a MATLAB tutorial.
 """
 
